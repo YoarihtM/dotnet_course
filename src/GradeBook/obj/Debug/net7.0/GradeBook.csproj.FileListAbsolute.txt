@@ -1,0 +1,14 @@
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\bin\Debug\net7.0\GradeBook.exe
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\bin\Debug\net7.0\GradeBook.deps.json
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\bin\Debug\net7.0\GradeBook.runtimeconfig.json
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\bin\Debug\net7.0\GradeBook.dll
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\bin\Debug\net7.0\GradeBook.pdb
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\obj\Debug\net7.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\obj\Debug\net7.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\obj\Debug\net7.0\GradeBook.AssemblyInfo.cs
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\obj\Debug\net7.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\obj\Debug\net7.0\GradeBook.dll
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\obj\Debug\net7.0\refint\GradeBook.dll
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\obj\Debug\net7.0\GradeBook.pdb
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\obj\Debug\net7.0\GradeBook.genruntimeconfig.cache
+C:\Users\irvin.macedo\Desktop\dotnet_course\src\GradeBook\obj\Debug\net7.0\ref\GradeBook.dll
